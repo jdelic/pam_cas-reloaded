@@ -1,0 +1,8 @@
+*.o
+*.a
+*.obj
+*.la
+.idea
+*.iml
+.egg-info
+
